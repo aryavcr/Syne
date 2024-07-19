@@ -12,12 +12,6 @@ html, body {
 }
 
 
-
-@font-face {
-    font-family: "Monument";
-    src: url("https://github.com/aryavcr/premier/raw/main/fonts/MonumentExtended-Regular.otf")
-}
-
 /* loader-start */
 
 a {
