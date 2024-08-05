@@ -4,4 +4,4 @@
 - I have tried my best to make it as responsive as possible but due to so many elements, some things may appear ugly on smaller screens so please open the website on a full desktop browser window.
 - If you have any suggestions, do share in my inbox :)
 
-live at : <a href="https://aryav.vercel.app">syne1.vercel.app</a>
+live at : <a href="https://syne1.vercel.app">syne1.vercel.app</a>
